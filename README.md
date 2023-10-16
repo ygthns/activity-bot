@@ -60,4 +60,4 @@ Make sure to include the correct folder path.
 
 1. If you don't see any commits on a certain day, keep in mind that GitCon might choose not to make any commits on a given day. It's all part of giving your GitHub activity a genuine look!
 
-Feel free to check out [Yigithan Saglam](https://github.com/ygthns) on GitHub.
+Feel free to check out [Yigithan Saglam](https://github.com/ygthns) on GitHub!
